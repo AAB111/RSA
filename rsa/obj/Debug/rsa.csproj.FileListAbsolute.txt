@@ -1,0 +1,22 @@
+C:\Users\dikap\source\repos\rsa\rsa\bin\Debug\rsa.exe.config
+C:\Users\dikap\source\repos\rsa\rsa\bin\Debug\rsa.exe
+C:\Users\dikap\source\repos\rsa\rsa\bin\Debug\rsa.pdb
+C:\Users\dikap\source\repos\rsa\rsa\obj\Debug\rsa.csproj.AssemblyReference.cache
+C:\Users\dikap\source\repos\rsa\rsa\obj\Debug\rsa.csproj.SuggestedBindingRedirects.cache
+C:\Users\dikap\source\repos\rsa\rsa\obj\Debug\rsa.Properties.Resources.resources
+C:\Users\dikap\source\repos\rsa\rsa\obj\Debug\rsa.csproj.GenerateResource.cache
+C:\Users\dikap\source\repos\rsa\rsa\obj\Debug\rsa.csproj.CoreCompileInputs.cache
+C:\Users\dikap\source\repos\rsa\rsa\obj\Debug\rsa.exe
+C:\Users\dikap\source\repos\rsa\rsa\obj\Debug\rsa.pdb
+C:\Users\dikap\source\repos\rsa\rsa\obj\Debug\rsa.Form2.resources
+C:\Users\dikap\OneDrive\Рабочий стол\Новая папка\rsa\rsa\obj\Debug\rsa.csproj.AssemblyReference.cache
+C:\Users\dikap\OneDrive\Рабочий стол\Новая папка\rsa\rsa\obj\Debug\rsa.csproj.SuggestedBindingRedirects.cache
+C:\Users\dikap\OneDrive\Рабочий стол\Новая папка\rsa\rsa\obj\Debug\rsa.Form2.resources
+C:\Users\dikap\OneDrive\Рабочий стол\Новая папка\rsa\rsa\obj\Debug\rsa.Properties.Resources.resources
+C:\Users\dikap\OneDrive\Рабочий стол\Новая папка\rsa\rsa\obj\Debug\rsa.csproj.GenerateResource.cache
+C:\Users\dikap\OneDrive\Рабочий стол\Новая папка\rsa\rsa\obj\Debug\rsa.csproj.CoreCompileInputs.cache
+C:\Users\dikap\OneDrive\Рабочий стол\Новая папка\rsa\rsa\obj\Debug\rsa.exe
+C:\Users\dikap\OneDrive\Рабочий стол\Новая папка\rsa\rsa\obj\Debug\rsa.pdb
+C:\Users\dikap\OneDrive\Рабочий стол\Новая папка\rsa\rsa\bin\Debug\rsa.exe.config
+C:\Users\dikap\OneDrive\Рабочий стол\Новая папка\rsa\rsa\bin\Debug\rsa.exe
+C:\Users\dikap\OneDrive\Рабочий стол\Новая папка\rsa\rsa\bin\Debug\rsa.pdb
